@@ -1,6 +1,6 @@
 # penaranda-post2-u9
 
-![CI](https://github.com/CristianPrnda/penaranda-post2-u9/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/CristianPrnda/pe-aranda-post2-u9/actions/workflows/ci.yml/badge.svg)
 
 **Patrones de Diseño de Software — Unidad 9: Pruebas Unitarias y de Integración**  
 **Post-Contenido 2 — Pruebas de Integración y GitHub Actions CI**  
